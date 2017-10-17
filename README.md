@@ -1,2 +1,2 @@
-# thinkphp_blog_learning
-thinkphp_blog_learning20171017
+# thinkphp_blog_test
+thinkphp5.0 blog learning
